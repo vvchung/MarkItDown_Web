@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Gemini](https://img.shields.io/badge/Powered%20by-Gemini%202.5%20Flash-orange) ![React](https://img.shields.io/badge/Built%20with-React-61DAFB)
 
-> **RAG (檢索增強生成) 或 LLM 開發者都知道，80%時間是在「洗資料」，而不是寫 Prompt！** 🤯
+> **LLM (大語言模型) 或 RAG (檢索增強生成) 開發者都知道，80% 時間是在「洗資料」，而不是寫 Prompt！** 🤯
 
 要把 PDF 裡的表格、PPT 裡的圖片、Excel 裡的數據清洗成 LLM 看得懂的格式，真的會讓人崩潰。**MarkItDown Web** 就是為了拯救你的時間而生！
 
@@ -74,5 +74,7 @@
 
 ---
 
-Made with ❤️ by Developers, for Developers.  
-*不再讓髒資料阻礙你的 LLM 開發之路。*
+<div align="center">
+  <p>Made with ❤️ by Developers, for Developers.</p>
+  <p>不再讓髒資料阻礙你的 LLM 和 RAG 開發之路。</p>  
+</div>
