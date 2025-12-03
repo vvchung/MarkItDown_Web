@@ -1,7 +1,5 @@
 # 🚀 MarkItDown Web：萬物轉 Markdown 的終極資料清洗神器
 
-> **Drag, drop, and watch your files transform into perfect Markdown.** 📝
-
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Gemini](https://img.shields.io/badge/Powered%20by-Gemini%202.5%20Flash-orange) ![React](https://img.shields.io/badge/Built%20with-React-61DAFB)
 
 > **RAG (檢索增強生成) 或 LLM 開發者都知道，80%時間是在「洗資料」，而不是寫 Prompt！** 🤯
