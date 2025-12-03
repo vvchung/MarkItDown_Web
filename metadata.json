@@ -1,0 +1,5 @@
+{
+  "name": "MarkItDown Web",
+  "description": "A web-based converter inspired by Microsoft MarkItDown. Drag and drop PDF, images, or text files to convert them instantly into clean Markdown format using AI.",
+  "requestFramePermissions": []
+}
